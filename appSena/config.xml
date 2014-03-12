@@ -41,8 +41,6 @@
 
     <!-- Core plugins -->
 
-    <gap:plugin name="org.apache.cordova.device" />
-
 
 
 
